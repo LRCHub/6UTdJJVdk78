@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Salamander",
+  "base_artist": "ELLEGARDEN",
+  "createdAt": "2026-03-25T13:15:26.724854Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Salamander",
+      "artist": "Jethro Tull",
+      "has_synced": true,
+      "path": "select/01_Salamander_Jethro_Tull.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Salamander",
+      "artist": "Arena",
+      "has_synced": true,
+      "path": "select/02_Salamander_Arena.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Drache und Salamander",
+      "artist": "Peter Maffay",
+      "has_synced": true,
+      "path": "select/03_Drache_und_Salamander_Peter_Maffay.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Salamander - 2002 Remaster",
+      "artist": "Jethro Tull",
+      "has_synced": true,
+      "path": "select/04_Salamander_-_2002_Remaster_Jethro_Tull.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Salamander  (2002 Remaster)",
+      "artist": "Jethro Tull",
+      "has_synced": true,
+      "path": "select/05_Salamander_(2002_Remaster)_Jethro_Tull.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Salamander (2002 Remastered Version)",
+      "artist": "Jethro Tull",
+      "has_synced": true,
+      "path": "select/06_Salamander_(2002_Remastered_Version)_Jethro_Tull.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Salamander",
+      "artist": "ELLEGARDEN",
+      "has_synced": false,
+      "path": "select/pl_01_Salamander_ELLEGARDEN.txt"
+    }
+  ]
+}
